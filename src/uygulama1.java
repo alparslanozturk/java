@@ -5,7 +5,7 @@ public class uygulama1 {
 		// TODO Auto-generated method stub
 		
 		
-		System.out.println("masdf");
+		System.out.println("masdasdfasdfasdff");
 
 	}
 
