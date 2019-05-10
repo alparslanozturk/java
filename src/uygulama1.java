@@ -16,19 +16,25 @@ public class uygulama1 {
 		System.out.println(" Uygulama1 baþalamýþtýr. ");
 		
 		uygulama1 u = new uygulama1();
-		
 		u.method1(50,3,4,5);
+
 		
+		/* stringbuilder */
 		StringBuilder sb = new StringBuilder();
-		
-		sb.append("asdfasdf")
-		.append("asdfasdf123123123")
-		.append("aksdjfkasjdfk")
-		.append("1231231313");
-		
+		sb.append("Ali")
+		.append(" ")
+		.append("topa")
+		.append(" ")
+		.append("bak.");
 		System.out.println(sb);
 				
-				
+/*
+		public StringBuilder append(String str) {
+			super.append(str);
+			return this;
+		}
+*/
+		
 		
 	
 
